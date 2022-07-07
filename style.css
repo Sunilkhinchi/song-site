@@ -118,6 +118,18 @@ nav ul li{
     transition: opacity 0.4s ease-in;
 }
 
+
+/* sunil */
+
+.timeSong {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 25px;
+}
+
+/* sunil end */
+
 @media only screen and (max-width: 1100px) {
     /* body {
       background-color: red;
